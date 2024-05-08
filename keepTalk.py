@@ -1,7 +1,6 @@
 import soundcard as sc
 import numpy as np
 import time
-# import keyboard
 import pyautogui
 
 # Define constants
